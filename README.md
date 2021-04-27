@@ -11,6 +11,14 @@ This script gets the top specified redditors (from hot) that posted on a desired
 
 This repository also includes a graph.py script, that, after specifying the needed info, graphs your results. In a future update, I will combine both of them.
 
+## Example:
+
+I tried my code with some subreddits that I thought they would be interesting to see the results and made a graph out of it.
+
+![Graph](graph.png)
+
+
+
 ## Requisites:
 
 This program requires PRAW
