@@ -7,9 +7,14 @@ A python script that gets the posts in r/depression by the top specified reddito
 .
 
 ## How it works
-This script gets the top specified redditors (from hot) that posted on a desired subreddit and analizes their account to se if they ever posted on r/depression. Then, returns the number of  all the posts of r/depression by the top specified number of users (from hot) of a desired subreddit. The script can be slightly modified to show the posts of the users, simply uncomment line __ of the main.py file.
+This script gets the top specified redditors (from hot) that posted on a desired subreddit and analizes their account to se if they ever posted on r/depression. Then, returns the number of  all the posts of r/depression by the top specified number of users (from hot) of a desired subreddit. The script can be slightly modified to show the posts of the users, simply uncomment line __ of the main.py file. 
+
+It also displays the amount of time that my computer took to analyze every subreddit. 
 
 This repository also includes a graph.py script, that, after specifying the needed info, graphs your results. In a future update, I will combine both of them.
+
+### Simple explanation of what this code means:
+This program and graphs shows how many posts in r/depression were published by people who also posted in a desired subreddit
 
 ## Example:
 
