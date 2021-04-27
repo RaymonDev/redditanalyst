@@ -14,7 +14,7 @@ It also displays the amount of time that my computer took to analyze every subre
 This repository also includes a graph.py script, that, after specifying the needed info, graphs your results. In a future update, I will combine both of them.
 
 ### Simple explanation of what this code means:
-This program and graphs shows how many posts in r/depression were published by people who also posted in a desired subreddit
+This script shows how many posts in r/depression were published by people who also posted on a specified subreddit
 
 ## Example:
 
