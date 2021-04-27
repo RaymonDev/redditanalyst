@@ -1,0 +1,57 @@
+
+Log: 
+
+ - Accounts Checked: 1 in --- 3.6263632774353027 seconds --- (4 posts) --- r/Autumn1023
+ - Accounts Checked: 2 in --- 0.5590493679046631 seconds --- (1 posts) --- r/BagelsInThedas
+ - Accounts Checked: 3 in --- 23.337104320526123 seconds --- (80 posts) --- r/poofiexist
+ - Accounts Checked: 4 in --- 9.20338249206543 seconds --- (28 posts) --- r/ThatBitchAva
+ - Accounts Checked: 5 in --- 31.385085344314575 seconds --- (134 posts) --- r/SilJustAteYourMom
+ - Accounts Checked: 6 in --- 769.2577359676361 seconds --- (1000 posts) --- r/IzzyWinterz
+ - Accounts Checked: 7 in --- 151.86182689666748 seconds --- (150 posts) --- r/lighthouse_85
+ - Accounts Checked: 8 in --- 222.51351475715637 seconds --- (219 posts) --- r/ormr_kin
+ - Accounts Checked: 9 in --- 77.35454678535461 seconds --- (77 posts) --- r/AstronomerSuitable83
+ - Accounts Checked: 10 in --- 43.27483057975769 seconds --- (42 posts) --- r/qwertymario69
+ - Accounts Checked: 11 in --- 519.1444668769836 seconds --- (513 posts) --- r/Your_friendly_weirdo
+ - Accounts Checked: 12 in --- 98.69003677368164 seconds --- (98 posts) --- r/BadGamesJules
+ - Accounts Checked: 13 in --- 548.6904239654541 seconds --- (537 posts) --- r/violetdragons
+ - Accounts Checked: 14 in --- 552.6854965686798 seconds --- (549 posts) --- r/EmmaLately
+ - Accounts Checked: 15 in --- 175.86150813102722 seconds --- (174 posts) --- r/beaudebonair
+ - Accounts Checked: 16 in --- 20.788888454437256 seconds --- (20 posts) --- r/runningsoap
+ - Accounts Checked: 17 in --- 3.9963653087615967 seconds --- (3 posts) --- r/alfie161
+ - Accounts Checked: 18 in --- 18.13137197494507 seconds --- (17 posts) --- r/uncertainToorop
+ - Accounts Checked: 19 in --- 33.103294134140015 seconds --- (32 posts) --- r/your_favorite_wokie
+ - Accounts Checked: 20 in --- 77.68048858642578 seconds --- (77 posts) --- r/Shiver-Me-Timbers777
+ - Accounts Checked: 21 in --- 6.445361614227295 seconds --- (5 posts) --- r/MisaRavensoul
+ - Accounts Checked: 22 in --- 79.81533241271973 seconds --- (79 posts) --- r/Kran04
+ - Accounts Checked: 23 in --- 3.9176530838012695 seconds --- (3 posts) --- r/saucyd214
+ - Accounts Checked: 24 in --- 35.71311712265015 seconds --- (35 posts) --- r/0-5A
+ - Accounts Checked: 25 in --- 194.38103365898132 seconds --- (192 posts) --- r/Kitchen-Scar-6060
+ - Accounts Checked: 26 in --- 30.867626667022705 seconds --- (30 posts) --- r/Rux0n
+ - Accounts Checked: 27 in --- 39.02789616584778 seconds --- (38 posts) --- r/ToniYT11
+ - Accounts Checked: 28 in --- 1008.140368938446 seconds --- (999 posts) --- r/Snaebakabeans
+ - Accounts Checked: 29 in --- 2.0665950775146484 seconds --- (1 posts) --- r/SnooDogs8712
+ - Accounts Checked: 30 in --- 73.64783596992493 seconds --- (73 posts) --- r/JadedElk
+ - Accounts Checked: 31 in --- 8.430023670196533 seconds --- (5 posts) --- r/ItsCatLac
+ - Accounts Checked: 32 in --- 145.65749144554138 seconds --- (146 posts) --- r/konagrace1
+ - Accounts Checked: 33 in --- 9.851077556610107 seconds --- (9 posts) --- r/Soft_rocks
+ - Accounts Checked: 34 in --- 16.34745693206787 seconds --- (15 posts) --- r/ImGwendy
+ - Accounts Checked: 35 in --- 3.842623710632324 seconds --- (3 posts) --- r/Glittering_Force_702
+ - Accounts Checked: 36 in --- 32.950419902801514 seconds --- (32 posts) --- r/zombiepigperson
+ - Accounts Checked: 37 in --- 161.16239070892334 seconds --- (159 posts) --- r/booperbean
+ - Accounts Checked: 38 in --- 12.997198581695557 seconds --- (12 posts) --- r/magiccrystals
+ - Accounts Checked: 39 in --- 10.736807823181152 seconds --- (10 posts) --- r/Sevoline
+ - Accounts Checked: 40 in --- 80.36773562431335 seconds --- (79 posts) --- r/dan26838
+ - Accounts Checked: 41 in --- 13.246345043182373 seconds --- (12 posts) --- r/toasteropulus
+ - Accounts Checked: 42 in --- 134.74751210212708 seconds --- (133 posts) --- r/AceKiron
+ - Accounts Checked: 43 in --- 256.56884503364563 seconds --- (254 posts) --- r/silamandered
+ - Accounts Checked: 44 in --- 58.433351278305054 seconds --- (57 posts) --- r/im_Kenzzy
+ - Accounts Checked: 45 in --- 205.73565411567688 seconds --- (203 posts) --- r/wearstherolex
+ - Accounts Checked: 46 in --- 23.18587613105774 seconds --- (22 posts) --- r/fyffey_
+ - Accounts Checked: 47 in --- 44.01248598098755 seconds --- (43 posts) --- r/kitsune_neko_
+ - Accounts Checked: 48 in --- 9.936805009841919 seconds --- (9 posts) --- r/trulycam
+ - Accounts Checked: 49 in --- 37.76298117637634 seconds --- (37 posts) --- r/MikVowel
+ - Accounts Checked: 50 in --- 55.05870342254639 seconds --- (54 posts) --- r/A-Mangeled-Mess
+-------------------------------------------------------------------------------
+ - Posts in r/depression by the redditors of the lgbt subreddit : 4
+ --- 6179.423202991486 seconds to execute the program---
+Coded by RamonG

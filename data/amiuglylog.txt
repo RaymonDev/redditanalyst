@@ -1,0 +1,57 @@
+
+Log: 
+
+ - Accounts Checked: 1 in --- 64.24728846549988 seconds --- (92 posts) --- r/AshKetchupp99
+ - Accounts Checked: 2 in --- 283.98077058792114 seconds --- (281 posts) --- r/bleach_tastes_bad
+ - Accounts Checked: 3 in --- 4.467400789260864 seconds --- (3 posts) --- r/InsidePineapple
+ - Accounts Checked: 4 in --- 2.7572927474975586 seconds --- (2 posts) --- r/missmiseryy
+ - Accounts Checked: 5 in --- 3.0704281330108643 seconds --- (2 posts) --- r/heyitskaymay
+ - Accounts Checked: 6 in --- 17.761639833450317 seconds --- (17 posts) --- r/ZeeSilkie
+ - Accounts Checked: 7 in --- 2.0297188758850098 seconds --- (1 posts) --- r/hishoeka
+ - Accounts Checked: 8 in --- 22.95941996574402 seconds --- (22 posts) --- r/redbottom29
+ - Accounts Checked: 9 in --- 6.030587434768677 seconds --- (5 posts) --- r/SnooGiraffes6629
+ - Accounts Checked: 10 in --- 1.9335408210754395 seconds --- (1 posts) --- r/glimmer1112
+ - Accounts Checked: 11 in --- 2.2168898582458496 seconds --- (1 posts) --- r/FZSL
+ - Accounts Checked: 12 in --- 4.061040878295898 seconds --- (3 posts) --- r/K-E-I
+ - Accounts Checked: 13 in --- 161.3172526359558 seconds --- (159 posts) --- r/Papercs
+ - Accounts Checked: 14 in --- 14.5196692943573 seconds --- (14 posts) --- r/NEONPALMMALL
+ - Accounts Checked: 15 in --- 6.25963282585144 seconds --- (5 posts) --- r/kegsp
+ - Accounts Checked: 16 in --- 8.594876766204834 seconds --- (8 posts) --- r/DwD0604
+ - Accounts Checked: 17 in --- 1.9870991706848145 seconds --- (1 posts) --- r/gekko1919
+ - Accounts Checked: 18 in --- 251.27547597885132 seconds --- (248 posts) --- r/Yeuxz
+ - Accounts Checked: 19 in --- 14.65938687324524 seconds --- (14 posts) --- r/Kempi47
+ - Accounts Checked: 20 in --- 6.85484766960144 seconds --- (6 posts) --- r/Novel-End-4334
+ - Accounts Checked: 21 in --- 3.276301145553589 seconds --- (2 posts) --- r/TargetRevolutionary9
+ - Accounts Checked: 22 in --- 13.710867166519165 seconds --- (13 posts) --- r/Pyotr12
+ - Accounts Checked: 23 in --- 15.025242567062378 seconds --- (14 posts) --- r/DanielQuinn4321
+ - Accounts Checked: 24 in --- 25.080353021621704 seconds --- (24 posts) --- r/pastelpurpleunicorn
+ - Accounts Checked: 25 in --- 2.0366296768188477 seconds --- (1 posts) --- r/Jazzlike-Doctor-4402
+ - Accounts Checked: 26 in --- 5.143064498901367 seconds --- (4 posts) --- r/dirtyyoungman69420
+ - Accounts Checked: 27 in --- 4.222832679748535 seconds --- (3 posts) --- r/Smoothoperator_94
+ - Accounts Checked: 28 in --- 1.930666208267212 seconds --- (1 posts) --- r/Eric_Comely
+ - Accounts Checked: 29 in --- 2.389162302017212 seconds --- (1 posts) --- r/throwaway542344
+ - Accounts Checked: 30 in --- 53.49456167221069 seconds --- (53 posts) --- r/gl2que
+ - Accounts Checked: 31 in --- 120.84807014465332 seconds --- (119 posts) --- r/latenightesomeone
+ - Accounts Checked: 32 in --- 6.312124252319336 seconds --- (5 posts) --- r/danbomilkbar
+ - Accounts Checked: 33 in --- 1.9348971843719482 seconds --- (1 posts) --- r/ambush60
+ - Accounts Checked: 34 in --- 18.874680995941162 seconds --- (18 posts) --- r/King_G3
+ - Accounts Checked: 35 in --- 9.018849849700928 seconds --- (8 posts) --- r/Superdude3475
+ - Accounts Checked: 36 in --- 7.861518859863281 seconds --- (6 posts) --- r/TreJJager
+ - Accounts Checked: 37 in --- 11.943947315216064 seconds --- (12 posts) --- r/Kaloyan_P
+ - Accounts Checked: 38 in --- 8.349880695343018 seconds --- (7 posts) --- r/SirUnhappy
+ - Accounts Checked: 39 in --- 62.767412185668945 seconds --- (62 posts) --- r/Xisas
+ - Accounts Checked: 40 in --- 2.002957344055176 seconds --- (1 posts) --- r/Inane_Rage
+ - Accounts Checked: 41 in --- 14.182065725326538 seconds --- (13 posts) --- r/adeena_a
+ - Accounts Checked: 42 in --- 2.825582981109619 seconds --- (2 posts) --- r/Odd_Zebra473
+ - Accounts Checked: 43 in --- 10.795565843582153 seconds --- (10 posts) --- r/Pure-Conversation217
+ - Accounts Checked: 44 in --- 2.4620072841644287 seconds --- (1 posts) --- r/Ohheyah
+ - Accounts Checked: 45 in --- 3.878512144088745 seconds --- (1 posts) --- r/Vanillahub
+ - Accounts Checked: 46 in --- 10.081858158111572 seconds --- (11 posts) --- r/Shiny_anime_tittie
+ - Accounts Checked: 47 in --- 3.456381320953369 seconds --- (2 posts) --- r/brimarie503
+ - Accounts Checked: 48 in --- 2.591259241104126 seconds --- (2 posts) --- r/a_boy_with_feelings
+ - Accounts Checked: 49 in --- 31.930387258529663 seconds --- (31 posts) --- r/TheVoidWalker999
+ - Accounts Checked: 50 in --- 1.991910696029663 seconds --- (1 posts) --- r/JarvelK
+-------------------------------------------------------------------------------
+ - Posts in r/depression by the redditors of the amiugly subreddit : 4
+ --- 1343.8334493637085 seconds to execute the program---
+Coded by RamonG

@@ -1,0 +1,57 @@
+
+Log: 
+
+ - Accounts Checked: 1 in --- 27.919938564300537 seconds --- (75 posts) --- r/remyschnitzel
+ - Accounts Checked: 2 in --- 0.8749966621398926 seconds --- (3 posts) --- r/extraeucalyptus
+ - Accounts Checked: 3 in --- 0.6874160766601562 seconds --- (2 posts) --- r/bharosabhosda
+ - Accounts Checked: 4 in --- 1.0467815399169922 seconds --- (4 posts) --- r/hsnehajis
+ - Accounts Checked: 5 in --- 1.0156128406524658 seconds --- (3 posts) --- r/sdickie2409
+ - Accounts Checked: 6 in --- 0.49996495246887207 seconds --- (2 posts) --- r/veritas_root
+ - Accounts Checked: 7 in --- 0.32810163497924805 seconds --- (1 posts) --- r/heyheyhey332
+ - Accounts Checked: 8 in --- 1.20302152633667 seconds --- (4 posts) --- r/Throw-me-away999
+ - Accounts Checked: 9 in --- 0.5624234676361084 seconds --- (1 posts) --- r/AssassinBobb
+ - Accounts Checked: 10 in --- 2.359269618988037 seconds --- (10 posts) --- r/Mythion_VR
+ - Accounts Checked: 11 in --- 3.484132766723633 seconds --- (10 posts) --- r/Taasko
+ - Accounts Checked: 12 in --- 0.8280105590820312 seconds --- (3 posts) --- r/Stunning-Past4607
+ - Accounts Checked: 13 in --- 15.389614820480347 seconds --- (60 posts) --- r/Drops_of_dew
+ - Accounts Checked: 14 in --- 1.2811040878295898 seconds --- (5 posts) --- r/Vampire_queen94
+ - Accounts Checked: 15 in --- 0.953115701675415 seconds --- (4 posts) --- r/NH0516
+ - Accounts Checked: 16 in --- 0.3905980587005615 seconds --- (1 posts) --- r/TadpoleValuable9324
+ - Accounts Checked: 17 in --- 0.8749396800994873 seconds --- (3 posts) --- r/pmmecuteraccoonpics
+ - Accounts Checked: 18 in --- 0.5937087535858154 seconds --- (2 posts) --- r/Kaynn_976
+ - Accounts Checked: 19 in --- 0.6405806541442871 seconds --- (1 posts) --- r/BeachinAngelina
+ - Accounts Checked: 20 in --- 0.8280670642852783 seconds --- (3 posts) --- r/supreme_fisherman
+ - Accounts Checked: 21 in --- 2.031055212020874 seconds --- (7 posts) --- r/Scallion_Unusual
+ - Accounts Checked: 22 in --- 1.3280301094055176 seconds --- (5 posts) --- r/Alive-Advantage3441
+ - Accounts Checked: 23 in --- 19.170379400253296 seconds --- (20 posts) --- r/noice1sal
+ - Accounts Checked: 24 in --- 41.27838897705078 seconds --- (40 posts) --- r/TheRitz64
+ - Accounts Checked: 25 in --- 12.23352575302124 seconds --- (11 posts) --- r/Holiday-Reserve6393
+ - Accounts Checked: 26 in --- 6.077702760696411 seconds --- (5 posts) --- r/padylarts989
+ - Accounts Checked: 27 in --- 9.905563592910767 seconds --- (9 posts) --- r/cowboyhatkitty
+ - Accounts Checked: 28 in --- 1.9061176776885986 seconds --- (1 posts) --- r/Yourfavouritehippie
+ - Accounts Checked: 29 in --- 82.00993800163269 seconds --- (81 posts) --- r/Anxious-kisses
+ - Accounts Checked: 30 in --- 49.605934619903564 seconds --- (49 posts) --- r/The-Chonky-one
+ - Accounts Checked: 31 in --- 3.140350103378296 seconds --- (2 posts) --- r/6madman117
+ - Accounts Checked: 32 in --- 97.08705592155457 seconds --- (96 posts) --- r/RaidenJacques
+ - Accounts Checked: 33 in --- 40.91899847984314 seconds --- (40 posts) --- r/RichRohan
+ - Accounts Checked: 34 in --- 138.34983777999878 seconds --- (136 posts) --- r/eternalplatoon
+ - Accounts Checked: 35 in --- 173.03461933135986 seconds --- (171 posts) --- r/Enkermenz10
+ - Accounts Checked: 36 in --- 17.077001094818115 seconds --- (16 posts) --- r/Jaesuuu
+ - Accounts Checked: 37 in --- 24.84200429916382 seconds --- (24 posts) --- r/Beefahroni
+ - Accounts Checked: 38 in --- 58.76151084899902 seconds --- (58 posts) --- r/Chancemidnight
+ - Accounts Checked: 39 in --- 79.29143357276917 seconds --- (78 posts) --- r/rahuls02
+ - Accounts Checked: 40 in --- 2.6091954708099365 seconds --- (2 posts) --- r/MysticalMajestic
+ - Accounts Checked: 41 in --- 68.5421211719513 seconds --- (67 posts) --- r/shnn_twt
+ - Accounts Checked: 42 in --- 31.41969585418701 seconds --- (31 posts) --- r/Ronaldinho910
+ - Accounts Checked: 43 in --- 1009.5019752979279 seconds --- (999 posts) --- r/edder24
+ - Accounts Checked: 44 in --- 220.06798315048218 seconds --- (217 posts) --- r/Aimless_Creation
+ - Accounts Checked: 45 in --- 64.3339250087738 seconds --- (64 posts) --- r/inkbyio
+ - Accounts Checked: 46 in --- 194.12301921844482 seconds --- (192 posts) --- r/Remarkable_Login
+ - Accounts Checked: 47 in --- 1.8462562561035156 seconds --- (1 posts) --- r/sentimental_lady
+ - Accounts Checked: 48 in --- 31.57266330718994 seconds --- (30 posts) --- r/FellowTraveler69
+ - Accounts Checked: 49 in --- 256.6297628879547 seconds --- (254 posts) --- r/Ginger940
+ - Accounts Checked: 50 in --- 19.545573234558105 seconds --- (19 posts) --- r/SnooSprouts881
+-------------------------------------------------------------------------------
+ - Posts in r/depression by the redditors of the Anxiety subreddit : 14
+ --- 2824.127619743347 seconds to execute the program---
+Coded by RamonG

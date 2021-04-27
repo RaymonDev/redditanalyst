@@ -1,0 +1,57 @@
+
+Log: 
+
+ - Accounts Checked: 1 in --- 3.359200954437256 seconds --- (7 posts) --- r/sciential84
+ - Accounts Checked: 2 in --- 7.968197584152222 seconds --- (36 posts) --- r/Bam71-LX
+ - Accounts Checked: 3 in --- 5.37462592124939 seconds --- (17 posts) --- r/AtomicHZRD
+ - Accounts Checked: 4 in --- 0.4843409061431885 seconds --- (1 posts) --- r/g6g6g6g6g
+ - Accounts Checked: 5 in --- 176.0651614665985 seconds --- (235 posts) --- r/arkticturtle
+ - Accounts Checked: 6 in --- 19.154921054840088 seconds --- (19 posts) --- r/mesossad
+ - Accounts Checked: 7 in --- 20.20178198814392 seconds --- (19 posts) --- r/aki2ra
+ - Accounts Checked: 8 in --- 4.0309717655181885 seconds --- (3 posts) --- r/maeve_4
+ - Accounts Checked: 9 in --- 9.983643770217896 seconds --- (9 posts) --- r/shouldvejustgivenup
+ - Accounts Checked: 10 in --- 11.077394485473633 seconds --- (10 posts) --- r/jason_brunette
+ - Accounts Checked: 11 in --- 13.96774411201477 seconds --- (13 posts) --- r/bossandy
+ - Accounts Checked: 12 in --- 3.0935146808624268 seconds --- (2 posts) --- r/illeatyourcaketoo
+ - Accounts Checked: 13 in --- 13.88971996307373 seconds --- (13 posts) --- r/shmita21
+ - Accounts Checked: 14 in --- 22.592182636260986 seconds --- (22 posts) --- r/Reddo96
+ - Accounts Checked: 15 in --- 58.495943546295166 seconds --- (57 posts) --- r/themoosebaruniverse
+ - Accounts Checked: 16 in --- 5.749549150466919 seconds --- (5 posts) --- r/lestrange44
+ - Accounts Checked: 17 in --- 1.8592612743377686 seconds --- (1 posts) --- r/Crimson1Clover
+ - Accounts Checked: 18 in --- 14.436535835266113 seconds --- (13 posts) --- r/PMDDBitch
+ - Accounts Checked: 19 in --- 68.54208469390869 seconds --- (68 posts) --- r/astroJamie
+ - Accounts Checked: 20 in --- 57.01165509223938 seconds --- (56 posts) --- r/gettingbetter95
+ - Accounts Checked: 21 in --- 2.3748509883880615 seconds --- (1 posts) --- r/Wait-Negative
+ - Accounts Checked: 22 in --- 1.8280162811279297 seconds --- (1 posts) --- r/lilwasabibitch
+ - Accounts Checked: 23 in --- 31.85718536376953 seconds --- (31 posts) --- r/notanonlyfans
+ - Accounts Checked: 24 in --- 1.8748705387115479 seconds --- (1 posts) --- r/hashsingingslapper
+ - Accounts Checked: 25 in --- 8.280675649642944 seconds --- (7 posts) --- r/nothingoriginaloops
+ - Accounts Checked: 26 in --- 6.827650785446167 seconds --- (6 posts) --- r/Noodleman5
+ - Accounts Checked: 27 in --- 5.0152788162231445 seconds --- (4 posts) --- r/calamitybitch
+ - Accounts Checked: 28 in --- 499.85576725006104 seconds --- (495 posts) --- r/AnonPinkLady
+ - Accounts Checked: 29 in --- 5.515242338180542 seconds --- (4 posts) --- r/probablydamagedgoods
+ - Accounts Checked: 30 in --- 5.827721834182739 seconds --- (5 posts) --- r/thenicoleodeon
+ - Accounts Checked: 31 in --- 19.96736431121826 seconds --- (19 posts) --- r/Zaalem_Yzrea
+ - Accounts Checked: 32 in --- 81.3224470615387 seconds --- (80 posts) --- r/Giovanni_islost
+ - Accounts Checked: 33 in --- 63.66746497154236 seconds --- (62 posts) --- r/WhickWhackWhockm8
+ - Accounts Checked: 34 in --- 3.10849666595459 seconds --- (3 posts) --- r/Professional_Diver43
+ - Accounts Checked: 35 in --- 5.09339451789856 seconds --- (4 posts) --- r/kram_yeon
+ - Accounts Checked: 36 in --- 5.671482086181641 seconds --- (5 posts) --- r/seachingthought
+ - Accounts Checked: 37 in --- 300.0729031562805 seconds --- (297 posts) --- r/yupyuplol
+ - Accounts Checked: 38 in --- 16.045762062072754 seconds --- (15 posts) --- r/Nightlife69X
+ - Accounts Checked: 39 in --- 1.8436601161956787 seconds --- (1 posts) --- r/Excellent_Rub_2525
+ - Accounts Checked: 40 in --- 3.109121561050415 seconds --- (2 posts) --- r/reedoreedoreedo
+ - Accounts Checked: 41 in --- 7.171377658843994 seconds --- (6 posts) --- r/philosophieasy
+ - Accounts Checked: 42 in --- 215.8600311279297 seconds --- (213 posts) --- r/Jack_W_Lewis
+ - Accounts Checked: 43 in --- 3.593501091003418 seconds --- (2 posts) --- r/jakIsHere321
+ - Accounts Checked: 44 in --- 89.44620418548584 seconds --- (89 posts) --- r/lyssssa6
+ - Accounts Checked: 45 in --- 44.09071373939514 seconds --- (43 posts) --- r/Vere-D-Lee
+ - Accounts Checked: 46 in --- 13.124128103256226 seconds --- (12 posts) --- r/coldfish32
+ - Accounts Checked: 47 in --- 106.82071709632874 seconds --- (105 posts) --- r/Marth58
+ - Accounts Checked: 48 in --- 11.202347755432129 seconds --- (10 posts) --- r/Conscious-Flamingo72
+ - Accounts Checked: 49 in --- 2.562284469604492 seconds --- (2 posts) --- r/PressButtonGetCookie
+ - Accounts Checked: 50 in --- 1.3436553478240967 seconds --- (1 posts) --- r/Subpurrrsible
+-------------------------------------------------------------------------------
+ - Posts in r/depression by the redditors of the lonely subreddit : 65
+ --- 2085.0250227451324 seconds to execute the program---
+Coded by RamonG

@@ -1,0 +1,57 @@
+
+Log: 
+
+ - Accounts Checked: 1 in --- 661.6561305522919 seconds --- (1000 posts) --- r/yellowmix
+ - Accounts Checked: 2 in --- 20.279772996902466 seconds --- (18 posts) --- r/MistressVelveetaVida
+ - Accounts Checked: 3 in --- 1.7655589580535889 seconds --- (2 posts) --- r/Mskwa2017
+ - Accounts Checked: 4 in --- 3.921600580215454 seconds --- (3 posts) --- r/Regular_Web3910
+ - Accounts Checked: 5 in --- 8.546276330947876 seconds --- (8 posts) --- r/stoneyevora
+ - Accounts Checked: 6 in --- 3.3122682571411133 seconds --- (2 posts) --- r/Throwitawaynow3264
+ - Accounts Checked: 7 in --- 3.5465688705444336 seconds --- (2 posts) --- r/IloveSpaghetti07
+ - Accounts Checked: 8 in --- 35.403770208358765 seconds --- (35 posts) --- r/catattack003
+ - Accounts Checked: 9 in --- 3.7497966289520264 seconds --- (3 posts) --- r/woozy_chili
+ - Accounts Checked: 10 in --- 60.28573393821716 seconds --- (59 posts) --- r/something565
+ - Accounts Checked: 11 in --- 7.263039588928223 seconds --- (6 posts) --- r/AconiteAgony
+ - Accounts Checked: 12 in --- 317.93315744400024 seconds --- (314 posts) --- r/rapidSpinningTurtle
+ - Accounts Checked: 13 in --- 1.8793232440948486 seconds --- (1 posts) --- r/Startingovertodayyy
+ - Accounts Checked: 14 in --- 42.99619746208191 seconds --- (42 posts) --- r/opinionated_fangirl
+ - Accounts Checked: 15 in --- 5.859071969985962 seconds --- (5 posts) --- r/XL_hoodie
+ - Accounts Checked: 16 in --- 143.80665159225464 seconds --- (142 posts) --- r/Soulless2163
+ - Accounts Checked: 17 in --- 2.3527896404266357 seconds --- (1 posts) --- r/The_craic_is_nintey
+ - Accounts Checked: 18 in --- 1.9056766033172607 seconds --- (1 posts) --- r/SEVEN62GOD
+ - Accounts Checked: 19 in --- 2.1124556064605713 seconds --- (1 posts) --- r/babishblubber
+ - Accounts Checked: 20 in --- 7.1363232135772705 seconds --- (6 posts) --- r/Astro-Queen
+ - Accounts Checked: 21 in --- 1.9423027038574219 seconds --- (1 posts) --- r/euuueuueueuueu
+ - Accounts Checked: 22 in --- 10.591454267501831 seconds --- (10 posts) --- r/racistfly
+ - Accounts Checked: 23 in --- 12.792824745178223 seconds --- (11 posts) --- r/MushofPixels
+ - Accounts Checked: 24 in --- 28.946184158325195 seconds --- (28 posts) --- r/Sweet_Cornbread
+ - Accounts Checked: 25 in --- 57.50433802604675 seconds --- (57 posts) --- r/Slight_Knight
+ - Accounts Checked: 26 in --- 5.0374462604522705 seconds --- (4 posts) --- r/paging_doctor_bitch
+ - Accounts Checked: 27 in --- 1.8243014812469482 seconds --- (1 posts) --- r/throwwwmeawwway_
+ - Accounts Checked: 28 in --- 9.76842975616455 seconds --- (9 posts) --- r/pancakewednesdays
+ - Accounts Checked: 29 in --- 6.0963146686553955 seconds --- (5 posts) --- r/yassiroua
+ - Accounts Checked: 30 in --- 19.42012667655945 seconds --- (18 posts) --- r/trvlgrl124
+ - Accounts Checked: 31 in --- 9.92357611656189 seconds --- (9 posts) --- r/Zealousideal-Pain584
+ - Accounts Checked: 32 in --- 16.66541624069214 seconds --- (16 posts) --- r/SnooBeans3895
+ - Accounts Checked: 33 in --- 122.33080387115479 seconds --- (120 posts) --- r/ShadeOfNothing
+ - Accounts Checked: 34 in --- 1.8873934745788574 seconds --- (1 posts) --- r/throwawayfriend1257
+ - Accounts Checked: 35 in --- 4.137684345245361 seconds --- (3 posts) --- r/apika1i
+ - Accounts Checked: 36 in --- 6.774296283721924 seconds --- (6 posts) --- r/International-Yam475
+ - Accounts Checked: 37 in --- 30.427144527435303 seconds --- (29 posts) --- r/stupidiot49
+ - Accounts Checked: 38 in --- 3.623676061630249 seconds --- (3 posts) --- r/yasmincognito
+ - Accounts Checked: 39 in --- 7.035989046096802 seconds --- (6 posts) --- r/unamusedbutconfused
+ - Accounts Checked: 40 in --- 15.960112810134888 seconds --- (14 posts) --- r/mjsprezza
+ - Accounts Checked: 41 in --- 30.40641951560974 seconds --- (30 posts) --- r/maddiemkay
+ - Accounts Checked: 42 in --- 9.79194450378418 seconds --- (9 posts) --- r/FromFlabToGains
+ - Accounts Checked: 43 in --- 1.9820592403411865 seconds --- (1 posts) --- r/Bubblegum_B-tch
+ - Accounts Checked: 44 in --- 131.18702626228333 seconds --- (129 posts) --- r/blacksmithingbro
+ - Accounts Checked: 45 in --- 16.92198944091797 seconds --- (16 posts) --- r/DismalArachnid9
+ - Accounts Checked: 46 in --- 80.76551127433777 seconds --- (80 posts) --- r/ThatNeakyTitan
+ - Accounts Checked: 47 in --- 10.836388111114502 seconds --- (10 posts) --- r/Darknightlili
+ - Accounts Checked: 48 in --- 9.906891345977783 seconds --- (9 posts) --- r/Sufficient_Pudding
+ - Accounts Checked: 49 in --- 23.26086926460266 seconds --- (22 posts) --- r/Sheaintnobodyfoollol
+ - Accounts Checked: 50 in --- 7.306936025619507 seconds --- (6 posts) --- r/Throwawayme3189
+-------------------------------------------------------------------------------
+ - Posts in r/depression by the redditors of the offmychest subreddit : 5
+ --- 2032.669845342636 seconds to execute the program---
+Coded by RamonG
