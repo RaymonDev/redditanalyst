@@ -16,11 +16,11 @@ subreddit = str(input("Type the subreddit you want to check (without the r/): ")
 start_time = time.time() #starts the timer that returns the amount of time it takes to run
 
 reddit = praw.Reddit(
-    client_id="-tZytJ1xqJR9Ag", #Client ID of the Reddit bot
-    client_secret="y8JlIJvAleNkyPljUlxFy10jglaohQ", #Secret Client ID
+    client_id="X", #Client ID of the Reddit bot
+    client_secret="X", #Secret Client ID
     user_agent="testscript by u/Raymon22", #brief description
-    username = "Raymon22", #Username (to avoid some 403 errors)
-    password= "mpcftf2004" #password (to avoid some 403 errors)
+    username = "X", #Username (to avoid some 403 errors)
+    password= "X" #password (to avoid some 403 errors)
 )
 
 postcounter = 0 #counts the posts that the user has in r/depression
