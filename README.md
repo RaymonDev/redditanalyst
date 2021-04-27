@@ -11,7 +11,7 @@ This script gets the top specified redditors (from hot) that posted on a desired
 
 This repository also includes a graph.py script, that, after specifying the needed info, graphs your results. In a future update, I will combine both of them.
 
-### Requisites:
+## Requisites:
 
 This program requires PRAW
 
@@ -25,13 +25,13 @@ Matplotlib (for the graph script)
 
     pip install matplotlib
 
-### Installing
+## Installing
 
 - Download or clone the repository.
 - Execute the Python file (with launcher.bat or witht any other prefered method)
 - A command prompt window should appear.
 
-### How to use:
+## How to use:
 - Create the reddit bot
 - Execute the script (a command prompt window should appear)
 - Introduce the desired subbredit to analyse.
