@@ -26,7 +26,7 @@ I tried my code with some subreddits that I thought they would be interesting to
 
 ## Requisites:
 
-This program requires PRAW
+PRAW
 
     pip install praw
     
