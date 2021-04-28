@@ -41,7 +41,8 @@ Matplotlib (for the graph script)
 ## Installing
 
 - Download or clone the repository.
-- Execute the Python file (with launcher.bat or witht any other prefered method)
+- Install the requirements in "requirements.txt"
+- Execute the main.py Python file (with launcher.bat or witht any other prefered method)
 - A command prompt window should appear.
 
 ## How to use:
