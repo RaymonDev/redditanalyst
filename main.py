@@ -97,7 +97,7 @@ while len(users) != fixedaccounts:
 
             timeaccount = (time.time() - redditorstartime) #stop the user timer
 
-            #this prints some info in the console and txt: number of accounts checked, time it took for every account, how many posts does the user have and the reddit username
+            #this prints some info in the console and txt: number of accounts checked, time it took for every account and how many posts does the user has
             print(f"Accounts Checked: {accountschecked}" + " in --- %s seconds ---" % timeaccount + f" ({len(array_id)} posts)" + " --- ")
             file.write(f"\n - Accounts Checked: {accountschecked}" + " in --- %s seconds ---" % timeaccount + f" ({len(array_id)} posts)")
 
