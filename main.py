@@ -120,7 +120,4 @@ file.close()
 
 beep.beep(4)
 print("\nCoded by RaymonDev")
-print("\n----DeveloperInfo----")
-print("\n -Array users: " + str(users))
-print("\n -Array size: " + str(len(users)))
 enter = input("\nPress enter to finish...")
