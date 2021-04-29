@@ -115,7 +115,7 @@ print("\n --- %s seconds to execute the program---" % timeprogram)
 file.write(f"\n-------------------------------------------------------------------------------")
 file.write(f"\n - Posts in r/depression by the redditors of the {subreddit} subreddit : {postcounter}")
 file.write(f"\n --- %s seconds to execute the program---" % timeprogram)
-file.write(f"\nCoded by RamonG")
+file.write(f"\nCoded by RaymonDev")
 file.close()
 
 beep.beep(4)
